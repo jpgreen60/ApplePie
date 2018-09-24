@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		73040DA22158715D00010F9B /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73040DA12158715D00010F9B /* Game.swift */; };
 		732062E2215829400078EC64 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 732062E1215829400078EC64 /* AppDelegate.swift */; };
 		732062E4215829400078EC64 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 732062E3215829400078EC64 /* ViewController.swift */; };
 		732062E7215829400078EC64 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 732062E5215829400078EC64 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		73040DA12158715D00010F9B /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		732062DE215829400078EC64 /* ApplePie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ApplePie.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		732062E1215829400078EC64 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		732062E3215829400078EC64 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				732062E1215829400078EC64 /* AppDelegate.swift */,
 				732062E3215829400078EC64 /* ViewController.swift */,
 				732062E5215829400078EC64 /* Main.storyboard */,
+				73040DA12158715D00010F9B /* Game.swift */,
 				732062E8215829410078EC64 /* Assets.xcassets */,
 				732062EA215829410078EC64 /* LaunchScreen.storyboard */,
 				732062ED215829410078EC64 /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				732062E4215829400078EC64 /* ViewController.swift in Sources */,
+				73040DA22158715D00010F9B /* Game.swift in Sources */,
 				732062E2215829400078EC64 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
